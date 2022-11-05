@@ -1,4 +1,5 @@
                                 Setup LWC Development Environment
 
 Create Developer Org and Setup Dev Hub
+Create Scratch Org
     
