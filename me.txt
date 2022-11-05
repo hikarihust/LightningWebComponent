@@ -2,4 +2,5 @@
 
 Create Developer Org and Setup Dev Hub
 Create Scratch Org
+Explore Salesforce CLI Commands
     
