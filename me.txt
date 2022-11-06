@@ -9,4 +9,5 @@ Explore Salesforce CLI Commands
                                         LWC Fundamentals
 
 Hello World Component
+Data Binding
     
