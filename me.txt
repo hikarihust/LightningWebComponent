@@ -13,4 +13,5 @@ Data Binding
 Applying CSS
 Conditional Rendering
 Looping or Iteration
+Project - Simple Calculator
     
