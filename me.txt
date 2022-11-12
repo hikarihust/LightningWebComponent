@@ -23,4 +23,5 @@ Legacy - Private Properties - Non Reactive
 Private Properties - Reactive
 Getter Properties
 Public Properties
+Public Boolean Properties
     
