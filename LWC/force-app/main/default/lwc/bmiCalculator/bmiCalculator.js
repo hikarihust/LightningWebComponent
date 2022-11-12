@@ -6,7 +6,7 @@ export default class BmiCalculator extends LightningElement {
     weight;
     height;
 
-    @track bmi;
+    bmi;
     onWeightChange(event){
         this.weight = parseFloat(event.target.value);
     }
@@ -21,5 +21,12 @@ export default class BmiCalculator extends LightningElement {
         } catch(error){
             this.bmi = undefined;
         }
+    }
+
+    get bmiValue(){
+        if(this.bmi === undefined){
+            return "";
+        }
+        return `Your BMI is: ${this.bmi}`;
     }
 }
