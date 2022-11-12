@@ -14,4 +14,10 @@ Applying CSS
 Conditional Rendering
 Looping or Iteration
 Project - Simple Calculator
+
+    =================================================================================================
+
+                                        Javascript Properties
+
+Legacy - Private Properties - Non Reactive
     
