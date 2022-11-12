@@ -22,4 +22,5 @@ Project - Simple Calculator
 Legacy - Private Properties - Non Reactive
 Private Properties - Reactive
 Getter Properties
+Public Properties
     
