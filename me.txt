@@ -20,4 +20,5 @@ Project - Simple Calculator
                                         Javascript Properties
 
 Legacy - Private Properties - Non Reactive
+Private Properties - Reactive
     
