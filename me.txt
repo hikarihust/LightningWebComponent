@@ -32,4 +32,10 @@ Public Boolean Properties
 LWC Local Development
     sfdx update
     sfdx plugins:install @salesforce/lwc-dev-server
+
+    =================================================================================================
+
+                                        Component Lifecycle & Composition
+
+Using Slots
     
