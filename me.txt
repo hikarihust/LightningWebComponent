@@ -25,3 +25,11 @@ Getter Properties
 Public Properties
 Public Boolean Properties
     
+    =================================================================================================
+
+                                        LWC Local Development
+
+LWC Local Development
+    sfdx update
+    sfdx plugins:install @salesforce/lwc-dev-server
+    
