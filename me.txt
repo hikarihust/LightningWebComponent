@@ -38,4 +38,5 @@ LWC Local Development
                                         Component Lifecycle & Composition
 
 Using Slots
+Public Methods
     
