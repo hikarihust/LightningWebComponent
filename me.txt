@@ -39,4 +39,5 @@ LWC Local Development
 
 Using Slots
 Public Methods
+Shadow DOM
     
