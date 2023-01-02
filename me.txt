@@ -47,4 +47,5 @@ Component Lifecycle
                                         Component Communication Using Events
 
 Dispatching And Handling Events
+Communication Between Independent Components
     
