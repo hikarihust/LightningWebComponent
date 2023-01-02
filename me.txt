@@ -41,4 +41,10 @@ Using Slots
 Public Methods
 Shadow DOM
 Component Lifecycle
+
+    =================================================================================================
+
+                                        Component Communication Using Events
+
+Dispatching And Handling Events
     

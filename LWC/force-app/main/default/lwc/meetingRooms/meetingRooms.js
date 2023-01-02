@@ -1,6 +1,8 @@
-import { LightningElement } from 'lwc';
+import { LightningElement, track } from 'lwc';
 
 export default class MeetingRooms extends LightningElement {
+
+    @track selectedMeetingRoom;
 
     meetingRoomsInfo = [
         {roomName:'A-01', roomCapacity:'12'},
@@ -12,4 +14,14 @@ export default class MeetingRooms extends LightningElement {
         {roomName:'C-01', roomCapacity:'20'}
 
     ];
+
+    onTileSelectHandler(event){
+        const meetingRoomInfo = event.detail;
+        this.selectedMeetingRoom = meetingRoomInfo.roomName;
+    }
+
+    constructor(){
+        super();
+        this.template.addEventListener('tileclick', this.onTileSelectHandler.bind(this));
+    }
 }
