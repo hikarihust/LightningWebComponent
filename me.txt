@@ -55,4 +55,5 @@ Share Javascript Code
                                         Access Salesforce Data
 
 Working With Salesforce Data - An Overview
+Lightning Data Service - Create Record
     
