@@ -3,26 +3,14 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>accountManagerLDSForms</componentName>
-                <identifier>c_accountManagerLDSForms</identifier>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentName>accountManagerLDS</componentName>
-                <identifier>c_accountManagerLDS</identifier>
+                <componentName>accountManageApex</componentName>
+                <identifier>c_accountManageApex</identifier>
             </componentInstance>
         </itemInstances>
         <name>region1</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentName>accountRecordForm</componentName>
-                <identifier>c_accountRecordForm</identifier>
-            </componentInstance>
-        </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
@@ -30,7 +18,7 @@
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>LDS</masterLabel>
+    <masterLabel>Apex</masterLabel>
     <template>
         <name>flexipage:appHomeTemplateTwoColumnsStacked</name>
     </template>
