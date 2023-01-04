@@ -69,4 +69,5 @@ Call Apex Method Imperatively
 Display A Toast Notification
 Get Record Id and Object Name From Framework
 Meta File Configurations
+Lightning Navigation Service
     
