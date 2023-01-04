@@ -59,4 +59,5 @@ Lightning Data Service - Create Record
 Lightning Data Service - View Record
 LDS - RecordViewForm and RecordEditForm
 LDS - RecordForm Base Component
+Call Apex Method Using Wire Adapter
     
