@@ -12,8 +12,10 @@
     <label>LWC Sessions</label>
     <navType>Standard</navType>
     <tabs>Simple_Calculator</tabs>
+    <tabs>Meeting_Room</tabs>
     <tabs>Apex</tabs>
     <tabs>LDS</tabs>
+    <tabs>Navigation</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
