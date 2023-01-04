@@ -67,4 +67,5 @@ Call Apex Method Imperatively
                                     Navigation Service and Other Features
 
 Display A Toast Notification
+Get Record Id and Object Name From Framework
     
