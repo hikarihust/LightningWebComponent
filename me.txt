@@ -71,4 +71,10 @@ Get Record Id and Object Name From Framework
 Meta File Configurations
 Lightning Navigation Service
 Using 3rd Party Libraries
+
+    =================================================================================================
+
+                                    Aura and LWC interoperability
+
+Communicate In Same Component Hierarchy
     
