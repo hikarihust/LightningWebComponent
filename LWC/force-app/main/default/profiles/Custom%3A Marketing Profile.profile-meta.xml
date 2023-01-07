@@ -242,6 +242,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Aura_And_LWC</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>LDS</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>

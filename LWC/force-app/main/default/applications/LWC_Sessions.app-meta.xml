@@ -17,6 +17,7 @@
     <tabs>LDS</tabs>
     <tabs>Navigation</tabs>
     <tabs>X3rd_Party_Lib</tabs>
+    <tabs>Aura_And_LWC</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
