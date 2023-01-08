@@ -77,4 +77,5 @@ Using 3rd Party Libraries
                                     Aura and LWC interoperability
 
 Communicate In Same Component Hierarchy
+Communicate In Different Components Hierarchy
     
