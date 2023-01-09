@@ -16,6 +16,7 @@ describe("c-meetingRooms", () => {
     const allMeetingRoomComponents =
       meetingRooms.shadowRoot.querySelectorAll("c-meeting-room");
 
+    debugger;
     expect(allMeetingRoomComponents.length).toBe(7);
   });
 
@@ -27,6 +28,7 @@ describe("c-meetingRooms", () => {
     const lightningCard =
       meetingRooms.shadowRoot.querySelector("lightning-card");
 
+    debugger;
     expect(lightningCard.title).toBe("Meeting Rooms");
   });
 });

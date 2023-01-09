@@ -85,4 +85,6 @@ Communicate In Different Components Hierarchy
 
 JTest Setup
 Writing Tests For Lightning Web Components
+Debugging Test Files - Using Chrome
+Debugging Test Files - Using VS Code
     
