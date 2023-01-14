@@ -19,6 +19,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>CarSearchResultController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>CreateData</apexClass>
         <enabled>false</enabled>
     </classAccesses>
