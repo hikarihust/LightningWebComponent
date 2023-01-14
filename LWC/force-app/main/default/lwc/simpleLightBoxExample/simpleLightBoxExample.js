@@ -23,7 +23,7 @@ export default class SimpleLightBoxExample extends LightningElement {
 
     openGallary(){
         SimpleLightbox.open({
-            items: [CARS + '/cars/van/maruti_suzuki_eeco.jpg', CARS + '/cars/luxury/mercedes_benz_gls.jpg', CARS + '/cars/sports/Audi_R8_V10_Plus.jpg']
+            items: [CARS + '/van/maruti_suzuki_eeco.jpg', CARS + '/luxury/mercedes_benz_gls.jpg', CARS + '/sports/Audi_R8_V10_Plus.jpg']
         });
     }
 
