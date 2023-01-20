@@ -15,7 +15,15 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>CarExperience</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>CarSearchFormController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>CarSearchResultController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -348,6 +356,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>X3rd_Party_Lib</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Year_2020_Updates</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

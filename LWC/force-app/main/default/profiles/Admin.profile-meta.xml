@@ -386,6 +386,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Year_2020_Updates</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-Contact</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>

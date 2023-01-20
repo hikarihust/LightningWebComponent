@@ -8,4 +8,4 @@
             Room Capacity: {!v.selectedMeetingRoom.roomCapacity}
         </p>
     </lightning:card>
-</aura:component>	
+</aura:component>
