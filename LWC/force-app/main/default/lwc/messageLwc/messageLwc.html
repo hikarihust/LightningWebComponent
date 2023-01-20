@@ -3,7 +3,7 @@
         <div class="slds-p-around_medium">
             <!--Iterate over the list-->
             <template for:each={messages} for:item="message">
-                <div key={message.id} class="message">
+                <div key={message.id} class="sfdcfacts-card">
                     {message.from} > {message.value}
                 </div>
             </template>
