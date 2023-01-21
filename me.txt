@@ -111,3 +111,9 @@ Lightning Messaging Service
 CSS Modules - Share CSS Styles Among Components
 Get User Permissions & Custom Permissions
     
+    =================================================================================================
+
+                                    Integration Project and Year 2021 Updates
+
+Sets in Javascript
+    
