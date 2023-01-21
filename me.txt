@@ -109,4 +109,5 @@ Develop CarLocation Component
 
 Lightning Messaging Service
 CSS Modules - Share CSS Styles Among Components
+Get User Permissions & Custom Permissions
     

@@ -8,6 +8,8 @@ import {
   APPLICATION_SCOPE
 } from "lightning/messageService";
 
+import hasSendPermissionn from "@salesforce/customPermission/Send_Message";
+
 export default class MessageLwc extends LightningElement {
   @track messages = [];
 
@@ -63,5 +65,9 @@ export default class MessageLwc extends LightningElement {
         from: msgPayload.from
       });
     }
+  }
+
+  get disableSendButton() {
+    return !hasSendPermissionn;
   }
 }
