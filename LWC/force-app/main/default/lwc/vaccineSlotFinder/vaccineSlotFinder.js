@@ -41,15 +41,19 @@ export default class VaccineSlotFinder extends LightningElement {
                     fieldName: date,
                     type: "text"
                 });
+
+                // add column value for the row
+                centers.get(center.center_id)[
+                    date
+                ] = `Available Capacity: ${available_capacity}
+                Min Age: ${min_age_limit}`;
             }
         }
-
-        console.log(dates);
-        console.log(centers);
-
+        this.dates = Array.from(dates.values());
+        this.centers = Array.from(centers.values());
     }
 
     get hideMessage() {
-        return false;
+        return this.centers.length > 0;
     }
 }
