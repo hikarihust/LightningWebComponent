@@ -123,4 +123,5 @@ Fix Content Security Policy Error - VSF Project
 Parse and Format the Callout Response - VSF Project
 Finish Formatting the Callout Response - VSF Project
 Stylise Lightning Datatable - VSF Project
+Lightning Tab - Add LWC as a Custom Tab
     
