@@ -382,6 +382,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Vaccine_Slots</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>X3rd_Party_Lib</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
