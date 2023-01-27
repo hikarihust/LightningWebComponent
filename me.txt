@@ -122,5 +122,5 @@ Making a Callout from LWC - VSF Project
 Fix Content Security Policy Error - VSF Project
 Parse and Format the Callout Response - VSF Project
 Finish Formatting the Callout Response - VSF Project
-    2.00
+Stylise Lightning Datatable - VSF Project
     

@@ -21,7 +21,8 @@ export default class VaccineSlotFinder extends LightningElement {
         dates.set("name", {
             label: "Center Name",
             fieldName: "name",
-            type: "text"
+            type: "text",
+            wrapText: true
         });
 
         // build rows/centers
@@ -39,7 +40,9 @@ export default class VaccineSlotFinder extends LightningElement {
                 dates.set(date, {
                     label: date,
                     fieldName: date,
-                    type: "text"
+                    type: "text",
+                    wrapText: true,
+                    cellAttributes: { class: { fieldName: "className" } }
                 });
 
                 // add column value for the row
@@ -47,6 +50,11 @@ export default class VaccineSlotFinder extends LightningElement {
                     date
                 ] = `Available Capacity: ${available_capacity}
                 Min Age: ${min_age_limit}`;
+
+                centers.get(center.center_id).className =
+                available_capacity > 0
+                    ? "slds-text-color_success"
+                    : "slds-text-color_error";
             }
         }
         this.dates = Array.from(dates.values());
