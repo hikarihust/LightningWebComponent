@@ -20,6 +20,7 @@
     <tabs>Aura_And_LWC</tabs>
     <tabs>Rent_A_Car</tabs>
     <tabs>Year_2020_Updates</tabs>
+    <tabs>Year_2021_Updates</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWC_Sessions_UtilityBar</utilityBar>
 </CustomApplication>
